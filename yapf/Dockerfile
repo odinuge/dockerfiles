@@ -6,4 +6,3 @@ RUN pip install yapf
 WORKDIR /code
 
 CMD yapf -ir /code
-
