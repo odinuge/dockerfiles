@@ -11,3 +11,7 @@ Usage
 $ docker run --rm -it -v $PWD:/code/ odinuge/yapf
 $ docker run --rm -it -v $PWD:/code/ odinuge/yapf yapf -ir source_code/
 ```
+
+### maven-javafx
+
+Simple image to run headless javafx tests in CI
